@@ -29,4 +29,4 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE] para mais detalhes.
